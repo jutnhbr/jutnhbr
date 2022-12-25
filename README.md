@@ -37,7 +37,5 @@ I am a 5th semester student :mortar_board: from Germany currently studying Compu
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jutnhbr&theme=gruvbox&show_icons=true)
-![](https://jutnhbr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://jutnhbr/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
