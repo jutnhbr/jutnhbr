@@ -6,8 +6,7 @@ I am a 5th semester student :mortar_board: from Germany currently studying Compu
 
 # Some of my projects (:wrench: = Currently working on)
 
-**:wrench:[Bluetooth Low Energy Scanner](https://github.com/jutnhbr/dln-ble-scans-for-room-utilization) for Room utilization determination [ESP32, MQTT, InfluxDB, MicroPython, Bluetooth]**\
-**:wrench:[Webinterface for the BLE Scanner](https://github.com/jutnhbr/dln-ble-scanner-webinterface) [ReactJS, ExpressJS, MQTT, InfluxDB JS Client, Nivo Charts] **\
+**:wrench:[Bluetooth Low Energy Scanner](https://github.com/jutnhbr/dln-ble-scans-for-room-utilization) for Room utilization determination [ESP32, MQTT, InfluxDB, MicroPython, Bluetooth, ReactJS, ExpressJS, Nivo Charts]**\
 **:wrench: (Not Public Yet) [Fullstack Webshop with MicroService Architecture](https://github.com/orgs/BitSmilez/repositories) [Spring, Java, ReactJS, Docker, CI/CD, RabbitMQ, Jira]**\
 :heavy_check_mark:**[AdViz - Digital Contact Book](https://github.com/jutnhbr/ADViz-digital-contact-book) single page fullstack WebApp with GeoCoding and Maps Integration [HTML, JS, CSS, MongoDB, MapsAPI, Geocoding, ExpressJS]**\
 :heavy_check_mark:**[Yet Another Low Poly Platformer](https://www.youtube.com/watch?v=eduFbNE1ne8&list=LLVdUmBmsFLz35JamoW8XG6g) 3D Platforming Game made with Unity3D [Unity3D, C#]**
@@ -35,6 +34,5 @@ I am a 5th semester student :mortar_board: from Germany currently studying Compu
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutnhbr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jutnhbr&theme=tokyonight&count_private=true&show_icons=true&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 
