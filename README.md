@@ -4,10 +4,10 @@
 
 I am a 5th semester student :mortar_board: from Germany currently studying Computer Science at HTW Berlin. I am mainly interested in fullstack development, but tend more towards backend. ✨
 
-# Some of my projects (:wrench: = Currently working on)
+# Some of my projects
 
 **:wrench:[Bluetooth Low Energy Scanner](https://github.com/jutnhbr/dln-ble-scans-for-room-utilization) for Room utilization determination [ESP32, MQTT, InfluxDB, MicroPython, Bluetooth, ReactJS, ExpressJS, Nivo Charts]**\
-**:wrench: (Not Public Yet) [Fullstack Webshop with MicroService Architecture](https://github.com/orgs/BitSmilez/repositories) [Spring, Java, ReactJS, Docker, CI/CD, RabbitMQ, Jira]**\
+:heavy_check_mark:**[Fullstack Webshop with MicroService Architecture](https://github.com/orgs/BitSmilez/repositories) [Spring, Java, ReactJS, Docker, CI/CD, RabbitMQ, Jira]**\
 :heavy_check_mark:**[AdViz - Digital Contact Book](https://github.com/jutnhbr/ADViz-digital-contact-book) single page fullstack WebApp with GeoCoding and Maps Integration [HTML, JS, CSS, MongoDB, MapsAPI, Geocoding, ExpressJS]**\
 :heavy_check_mark:**[Yet Another Low Poly Platformer](https://www.youtube.com/watch?v=eduFbNE1ne8&list=LLVdUmBmsFLz35JamoW8XG6g) 3D Platforming Game made with Unity3D [Unity3D, C#]**
 # Technologies I've worked with
