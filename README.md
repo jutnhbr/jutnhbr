@@ -2,7 +2,7 @@
   
 ## Hi there 👋
 
-I am a 5th semester student :mortar_board: from Germany currently studying Computer Science at HTW Berlin. I am mainly interested in fullstack development, but tend more towards backend. ✨
+I am a 6th semester student :mortar_board: from Germany currently studying Computer Science at HTW Berlin. I am mainly interested in fullstack development, but tend more towards backend. ✨
 
 # Some of my projects
 
