@@ -1,6 +1,11 @@
 
-  
-## Hi there 👋
+<p align="center">
+  Hi there 👋
+</p>
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" >
+<br><br>
+</p>
 
 I am a 6th semester student :mortar_board: from Germany currently studying Computer Science at HTW Berlin. I am mainly interested in fullstack development, but tend more towards backend. ✨
 
