@@ -43,5 +43,19 @@ I am a 6th semester student :mortar_board: from Germany currently studying Compu
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+<div align="center">
+
+## Cool Stats! Check out [this Repo](https://github.com/anuraghazra/github-readme-stats)!
+
+<p align="center">
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=jutnhbr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true' />
+</p>
+
+<p align="center">
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=jutnhbr&theme=vue-dark&hide_border=true' />
+</p>
+
+</div>
+
 
 
