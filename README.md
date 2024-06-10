@@ -7,7 +7,7 @@
 <br><br>
 </p>
 
-I am a 6th semester student :mortar_board: from Germany currently studying Computer Science at HTW Berlin. I am mainly interested in fullstack development, but tend more towards backend. ✨
+I am a Junior Software Engineer from Germany who is mainly interested in fullstack development, but leaning more towards the backend. ✨
 
 # Some of my projects
 
